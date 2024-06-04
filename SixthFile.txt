@@ -1,0 +1,6 @@
+###
+## test-git
+## This is text file number 6
+###
+
+The course of true love never did run smooth.
